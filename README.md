@@ -1,4 +1,5 @@
-### Hi there 👋
+### Name : Bai TianRui
+### School : Hunan University of Science and Technology
 ### I am a student at Hunan University of Science and Technology, engaged in the Java and Python software development industry
 
 <!--
