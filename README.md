@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a student at Hunan University of Science and Technology, engaged in the Java and Python software development industry
 
 <!--
 **PosPse/PosPse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
